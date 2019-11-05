@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/7486270/68227716-7f0a5f00-fff4-11e9-9445-4da91872afa4.jpg" />
+
 # lifeinabox-communication-protocol
 ## BLE
 - Service: `0000fee9-0000-1000-8000-00805f9b34fb`
