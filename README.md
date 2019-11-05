@@ -1,4 +1,4 @@
-# lifeina-communication-protocol
+# lifeinabox-communication-protocol
 ## BLE
 - Service: `0000fee9-0000-1000-8000-00805f9b34fb`
 - Characteristic Notify: `d44bc439-abfd-45a2-b575-925416129601`
