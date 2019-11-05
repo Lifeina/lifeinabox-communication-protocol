@@ -20,7 +20,7 @@
 
 | Bit 7  | Bit 6  | Bit 5  | Bit 4  | Bit 3  | Bit 2  | Bit 1  | Bit 0 |
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----:|
-| Charging state     | Battery capacity| - | - | - | - | - | - |
+| Charging state     | Battery capacity| Battery capacity | Battery capacity | Battery capacity | Battery capacity | Battery capacity | Battery capacity |
 
 
 ## Read historical temperature
