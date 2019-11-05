@@ -21,7 +21,13 @@
 | Bit 7  | Bit 6  | Bit 5  | Bit 4  | Bit 3  | Bit 2  | Bit 1  | Bit 0 |
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----:|
 | Charging state     | Battery capacity| Battery capacity | Battery capacity | Battery capacity | Battery capacity | Battery capacity | Battery capacity |
+- Charging state values:
+  - `0`: Discharged
+  - `1`: In charge
 
+- Battery capacity:
+  - Value Range at not charging status: `0000001~0100100`
+  - Value Range at charging status: `01000001~1100100`
 
 ## Read historical temperature
 ### Mobile terminal transmission
