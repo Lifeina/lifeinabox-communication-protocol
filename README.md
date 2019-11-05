@@ -1,0 +1,1 @@
+# lifeina-communication-protocol
