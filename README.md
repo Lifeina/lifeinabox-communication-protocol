@@ -55,4 +55,4 @@
   - `0x18`: Data length 24 bytes, temperature in the last 24 hours
   - `0xF0`: Data length 240 bytes, temperature in the last 240 hours
 
-- Data `0xXX…0xXX`：historical temperature Value Range: 0~255, means temperature range: 0~25.5℃.  Such as: 0x15 means 2.1℃
+- Data `0xXX…0xXX`：historical temperature Value Range: 0-255, means temperature range: 0-25.5℃.  Such as: 0x15 means 2.1℃
