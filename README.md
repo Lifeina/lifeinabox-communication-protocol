@@ -35,7 +35,7 @@
 ### Mobile terminal transmission
 | Start Code     | Function Code  | Data   | End Code |
 | :------------: |:-------------:| :-----:| :-------:|
-| 0xAA     | 0x8E | 0xXX | 0x55 |
+| 0xAA     | 0x8F | 0xXX | 0x55 |
 
 - `0xXX`: Past N hours
 - Data range:
@@ -47,7 +47,7 @@
 ### Box terminal reply
 | Start Code     | Function Code  | Data lenght  | Data   | End Code |
 | :------------: |:-------------:| :-----:| :-----:| :-------:|
-| 0xAA     | 0x8E | 0xXX | 0x55 | 0xXX...0xXX | 0x55 |
+| 0xAA     | 0x8F | 0xXX | 0xXX...0xXX | 0x55 |
 
 - Data length `0xXX` Data range:
   - `0x06`: Data length 6 bytes, temperature in the last 6 hours
